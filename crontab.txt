@@ -1,0 +1,2 @@
+# Can set preserve_logs.sh script to run every hour at 50th minute like below in crontab.
+50 * * * * preserve_logs.sh
